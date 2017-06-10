@@ -1,7 +1,8 @@
 # hello-world
 Repositorio de prueba
 
-#About me
+About me:
+
 Very passionate about the Big Data and related Technologies, especially Spark and Scala, but not limited to.
 
 I love Artificial Intelligence and the languages both artificial and natural.
